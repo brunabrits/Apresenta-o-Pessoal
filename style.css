@@ -1,0 +1,81 @@
+* {
+     margin:0 
+}
+
+
+header{
+     text-align: left;
+     background-color: white;
+     margin: 25px;
+   
+}
+
+
+.pbbruna{
+       text-align: center;
+       font-size: 75px;
+}
+
+
+.pblucas{
+      text-align: center;
+      font-size: 75px;
+}
+
+
+.textoap{
+    text-align:left;
+    
+}
+
+
+.gridcontainer{
+     display: grid;
+     grid-template-columns: auto;
+     padding: 0px;   
+}
+
+
+.gitem1{
+     border: 1px solid rgba(7, 6, 6, 0.8);
+     padding: 20px;  
+     
+}
+
+
+.gitem2{
+     border: 1px solid rgba(7, 6, 6, 0.8);
+     padding: 20px;
+}  
+
+
+.gitem3{
+     border: 1px solid rgba(7, 6, 6, 0.8);
+     padding: 20px;
+     
+}
+
+
+.gitem4{
+     border: 1px solid rgba(7, 6, 6, 0.8);
+     padding: 20px;
+}
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
