@@ -6,8 +6,7 @@
 header{
      text-align: left;
      background-color: white;
-     margin: 25px;
-   
+     margin: 25px;  
 }
 
 
@@ -25,7 +24,7 @@ header{
 
 .textoap{
     text-align:left;
-    
+    font-size:20px;   
 }
 
 
@@ -36,31 +35,23 @@ header{
 }
 
 
-.gitem1{
+.gitem{
      border: 1px solid rgba(7, 6, 6, 0.8);
-     padding: 20px;  
-     
+     padding: 30px; 
+     text-align: center;
+     font-size: 20px;
 }
 
 
-.gitem2{
-     border: 1px solid rgba(7, 6, 6, 0.8);
-     padding: 20px;
-}  
-
-
-.gitem3{
-     border: 1px solid rgba(7, 6, 6, 0.8);
-     padding: 20px;
-     
+.textoiq{
+     text-indent: 20px;
 }
 
 
-.gitem4{
-     border: 1px solid rgba(7, 6, 6, 0.8);
-     padding: 20px;
+.nomet{
+     color: rgb(24, 93, 221);
+     text-align: right;
 }
-    
 
 
 
