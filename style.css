@@ -4,48 +4,50 @@
 }
 
 
-header{
-     text-align: left;
+header
+{    text-align: left;
      background-color: cadetblue;
      margin: 20px;  
 }
 
-
-.pbbruna{
+.pbbruna
+{
        text-align: center;
        font-size: 75px;
        color: cadetblue;
 }
 
-
-.pblucas{
+.pblucas
+{
       text-align: center;
       font-size: 75px;
       color: cadetblue;
 }
 
 
-.textoap{
+.textoap
+{
     text-align:center;
     font-size:20px; 
 }
 
-
-.imgs{
+.imgs
+{
     display: inline-block;
     padding: 2px;
     border: 4px double cadetblue;
 }
 
 
-.gridcontainer{
+.gridcontainer
+{
      display: grid;
      grid-template-columns: auto;   
 }
 
 
-.gitem{
-    /* border: 1px solid  cadetblue; */
+.gitem
+{
      padding: 30px; 
      text-align: center;
      font-size: 20px;
@@ -53,31 +55,68 @@ header{
 }
 
 
-.textoiq{
+.textoiq
+{
      text-indent: 20px;
      color: black;
 }
 
 
-.nomet{
+.nomet
+{
      color: cadetblue;
      text-align: right;
 }
 
+.redessociais
+{
+     text-align: center;
+     font-size: 25px;
+}
+
+.redeb > p 
+{
+      font-size: 20px;
+      text-align: center;
+}
+
+.redel > p
+{
+      font-size: 20px;
+      text-align: center;     
+}
+
+.fa-instagram
+{
+        color: cadetblue;
+        font-size: 50px;      
+}
 
 
+.fa-twitter
+{
+     color: cadetblue;
+     font-size: 50px; 
+}
 
 
+.fa-github
+{
+     color: cadetblue;
+     font-size: 50px;
+}  
+
+.fa-whatsapp 
+{
+      color: cadetblue; font-size: 50px; 
+}
 
 
+.fa-facebook
+{
+      color: cadetblue; font-size: 50px; 
+}
 
-
-
-
-
-
-
-
-
-
-
+.fa-instagram :hover{
+     background-color: black;
+}
